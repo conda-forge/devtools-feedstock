@@ -3,7 +3,7 @@ About devtools-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/devtools-feedstock/blob/main/LICENSE.txt)
 
-Home: https://python-devtools.helpmanual.io
+Home: https://python-devtools.helpmanual.io/
 
 Package license: MIT
 
